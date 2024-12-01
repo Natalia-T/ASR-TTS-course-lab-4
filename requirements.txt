@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+deep-phonemizer
+transformers
+speechbrain
+torchmetrics
+jupyterlab
+ipython
+matplotlib
+nisqa
+
