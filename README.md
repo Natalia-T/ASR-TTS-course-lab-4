@@ -2,7 +2,7 @@
 
 ### Install
 
-1. git clone https://github.com/Natalia-T/ASR-TTS-course-lab-4.git
+1. ```git clone``` https://github.com/Natalia-T/ASR-TTS-course-lab-4.git
 2. Setup the environment for ```lab4_tts.ipynb``` using ```install.sh.```
 
 
